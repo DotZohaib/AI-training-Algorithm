@@ -1,0 +1,402 @@
+[
+  {
+    "review_id":1,
+    "review_text":"Excellent quality product fast delivery highly recommended (Order #100)",
+    "sentiment":1
+  },
+  {
+    "review_id":2,
+    "review_text":"Terrible quality broke on first day waste of money (Order #200)",
+    "sentiment":0
+  },
+  {
+    "review_id":3,
+    "review_text":"Amazing phone camera battery life is super great value (Order #101)",
+    "sentiment":1
+  },
+  {
+    "review_id":4,
+    "review_text":"Very slow delivery rude staff and damaged box (Order #201)",
+    "sentiment":0
+  },
+  {
+    "review_id":5,
+    "review_text":"Very happy with the service friendly staff and clean rooms (Order #102)",
+    "sentiment":1
+  },
+  {
+    "review_id":6,
+    "review_text":"Worst battery life phone gets hot and crashes (Order #202)",
+    "sentiment":0
+  },
+  {
+    "review_id":7,
+    "review_text":"Best laptop for programming smooth performance and great screen (Order #103)",
+    "sentiment":1
+  },
+  {
+    "review_id":8,
+    "review_text":"Poor service dirty room and overpriced food (Order #203)",
+    "sentiment":0
+  },
+  {
+    "review_id":9,
+    "review_text":"Wonderful experience food was delicious and fresh (Order #104)",
+    "sentiment":1
+  },
+  {
+    "review_id":10,
+    "review_text":"Fake product stopped working after two days (Order #204)",
+    "sentiment":0
+  },
+  {
+    "review_id":11,
+    "review_text":"Great packaging original product works smoothly (Order #105)",
+    "sentiment":1
+  },
+  {
+    "review_id":12,
+    "review_text":"Disappointed with support nobody replies to complaints (Order #205)",
+    "sentiment":0
+  },
+  {
+    "review_id":13,
+    "review_text":"Super fast shipping and awesome customer support (Order #106)",
+    "sentiment":1
+  },
+  {
+    "review_id":14,
+    "review_text":"Useless charger does not work at all refund needed (Order #206)",
+    "sentiment":0
+  },
+  {
+    "review_id":15,
+    "review_text":"Loved the course clear explanation and practical examples (Order #107)",
+    "sentiment":1
+  },
+  {
+    "review_id":16,
+    "review_text":"Bad experience screen was scratched and broken (Order #207)",
+    "sentiment":0
+  },
+  {
+    "review_id":17,
+    "review_text":"Excellent quality product fast delivery highly recommended (Order #108)",
+    "sentiment":1
+  },
+  {
+    "review_id":18,
+    "review_text":"Terrible quality broke on first day waste of money (Order #208)",
+    "sentiment":0
+  },
+  {
+    "review_id":19,
+    "review_text":"Amazing phone camera battery life is super great value (Order #109)",
+    "sentiment":1
+  },
+  {
+    "review_id":20,
+    "review_text":"Very slow delivery rude staff and damaged box (Order #209)",
+    "sentiment":0
+  },
+  {
+    "review_id":21,
+    "review_text":"Very happy with the service friendly staff and clean rooms (Order #110)",
+    "sentiment":1
+  },
+  {
+    "review_id":22,
+    "review_text":"Worst battery life phone gets hot and crashes (Order #210)",
+    "sentiment":0
+  },
+  {
+    "review_id":23,
+    "review_text":"Best laptop for programming smooth performance and great screen (Order #111)",
+    "sentiment":1
+  },
+  {
+    "review_id":24,
+    "review_text":"Poor service dirty room and overpriced food (Order #211)",
+    "sentiment":0
+  },
+  {
+    "review_id":25,
+    "review_text":"Wonderful experience food was delicious and fresh (Order #112)",
+    "sentiment":1
+  },
+  {
+    "review_id":26,
+    "review_text":"Fake product stopped working after two days (Order #212)",
+    "sentiment":0
+  },
+  {
+    "review_id":27,
+    "review_text":"Great packaging original product works smoothly (Order #113)",
+    "sentiment":1
+  },
+  {
+    "review_id":28,
+    "review_text":"Disappointed with support nobody replies to complaints (Order #213)",
+    "sentiment":0
+  },
+  {
+    "review_id":29,
+    "review_text":"Super fast shipping and awesome customer support (Order #114)",
+    "sentiment":1
+  },
+  {
+    "review_id":30,
+    "review_text":"Useless charger does not work at all refund needed (Order #214)",
+    "sentiment":0
+  },
+  {
+    "review_id":31,
+    "review_text":"Loved the course clear explanation and practical examples (Order #115)",
+    "sentiment":1
+  },
+  {
+    "review_id":32,
+    "review_text":"Bad experience screen was scratched and broken (Order #215)",
+    "sentiment":0
+  },
+  {
+    "review_id":33,
+    "review_text":"Excellent quality product fast delivery highly recommended (Order #116)",
+    "sentiment":1
+  },
+  {
+    "review_id":34,
+    "review_text":"Terrible quality broke on first day waste of money (Order #216)",
+    "sentiment":0
+  },
+  {
+    "review_id":35,
+    "review_text":"Amazing phone camera battery life is super great value (Order #117)",
+    "sentiment":1
+  },
+  {
+    "review_id":36,
+    "review_text":"Very slow delivery rude staff and damaged box (Order #217)",
+    "sentiment":0
+  },
+  {
+    "review_id":37,
+    "review_text":"Very happy with the service friendly staff and clean rooms (Order #118)",
+    "sentiment":1
+  },
+  {
+    "review_id":38,
+    "review_text":"Worst battery life phone gets hot and crashes (Order #218)",
+    "sentiment":0
+  },
+  {
+    "review_id":39,
+    "review_text":"Best laptop for programming smooth performance and great screen (Order #119)",
+    "sentiment":1
+  },
+  {
+    "review_id":40,
+    "review_text":"Poor service dirty room and overpriced food (Order #219)",
+    "sentiment":0
+  },
+  {
+    "review_id":41,
+    "review_text":"Wonderful experience food was delicious and fresh (Order #120)",
+    "sentiment":1
+  },
+  {
+    "review_id":42,
+    "review_text":"Fake product stopped working after two days (Order #220)",
+    "sentiment":0
+  },
+  {
+    "review_id":43,
+    "review_text":"Great packaging original product works smoothly (Order #121)",
+    "sentiment":1
+  },
+  {
+    "review_id":44,
+    "review_text":"Disappointed with support nobody replies to complaints (Order #221)",
+    "sentiment":0
+  },
+  {
+    "review_id":45,
+    "review_text":"Super fast shipping and awesome customer support (Order #122)",
+    "sentiment":1
+  },
+  {
+    "review_id":46,
+    "review_text":"Useless charger does not work at all refund needed (Order #222)",
+    "sentiment":0
+  },
+  {
+    "review_id":47,
+    "review_text":"Loved the course clear explanation and practical examples (Order #123)",
+    "sentiment":1
+  },
+  {
+    "review_id":48,
+    "review_text":"Bad experience screen was scratched and broken (Order #223)",
+    "sentiment":0
+  },
+  {
+    "review_id":49,
+    "review_text":"Excellent quality product fast delivery highly recommended (Order #124)",
+    "sentiment":1
+  },
+  {
+    "review_id":50,
+    "review_text":"Terrible quality broke on first day waste of money (Order #224)",
+    "sentiment":0
+  },
+  {
+    "review_id":51,
+    "review_text":"Amazing phone camera battery life is super great value (Order #125)",
+    "sentiment":1
+  },
+  {
+    "review_id":52,
+    "review_text":"Very slow delivery rude staff and damaged box (Order #225)",
+    "sentiment":0
+  },
+  {
+    "review_id":53,
+    "review_text":"Very happy with the service friendly staff and clean rooms (Order #126)",
+    "sentiment":1
+  },
+  {
+    "review_id":54,
+    "review_text":"Worst battery life phone gets hot and crashes (Order #226)",
+    "sentiment":0
+  },
+  {
+    "review_id":55,
+    "review_text":"Best laptop for programming smooth performance and great screen (Order #127)",
+    "sentiment":1
+  },
+  {
+    "review_id":56,
+    "review_text":"Poor service dirty room and overpriced food (Order #227)",
+    "sentiment":0
+  },
+  {
+    "review_id":57,
+    "review_text":"Wonderful experience food was delicious and fresh (Order #128)",
+    "sentiment":1
+  },
+  {
+    "review_id":58,
+    "review_text":"Fake product stopped working after two days (Order #228)",
+    "sentiment":0
+  },
+  {
+    "review_id":59,
+    "review_text":"Great packaging original product works smoothly (Order #129)",
+    "sentiment":1
+  },
+  {
+    "review_id":60,
+    "review_text":"Disappointed with support nobody replies to complaints (Order #229)",
+    "sentiment":0
+  },
+  {
+    "review_id":61,
+    "review_text":"Super fast shipping and awesome customer support (Order #130)",
+    "sentiment":1
+  },
+  {
+    "review_id":62,
+    "review_text":"Useless charger does not work at all refund needed (Order #230)",
+    "sentiment":0
+  },
+  {
+    "review_id":63,
+    "review_text":"Loved the course clear explanation and practical examples (Order #131)",
+    "sentiment":1
+  },
+  {
+    "review_id":64,
+    "review_text":"Bad experience screen was scratched and broken (Order #231)",
+    "sentiment":0
+  },
+  {
+    "review_id":65,
+    "review_text":"Excellent quality product fast delivery highly recommended (Order #132)",
+    "sentiment":1
+  },
+  {
+    "review_id":66,
+    "review_text":"Terrible quality broke on first day waste of money (Order #232)",
+    "sentiment":0
+  },
+  {
+    "review_id":67,
+    "review_text":"Amazing phone camera battery life is super great value (Order #133)",
+    "sentiment":1
+  },
+  {
+    "review_id":68,
+    "review_text":"Very slow delivery rude staff and damaged box (Order #233)",
+    "sentiment":0
+  },
+  {
+    "review_id":69,
+    "review_text":"Very happy with the service friendly staff and clean rooms (Order #134)",
+    "sentiment":1
+  },
+  {
+    "review_id":70,
+    "review_text":"Worst battery life phone gets hot and crashes (Order #234)",
+    "sentiment":0
+  },
+  {
+    "review_id":71,
+    "review_text":"Best laptop for programming smooth performance and great screen (Order #135)",
+    "sentiment":1
+  },
+  {
+    "review_id":72,
+    "review_text":"Poor service dirty room and overpriced food (Order #235)",
+    "sentiment":0
+  },
+  {
+    "review_id":73,
+    "review_text":"Wonderful experience food was delicious and fresh (Order #136)",
+    "sentiment":1
+  },
+  {
+    "review_id":74,
+    "review_text":"Fake product stopped working after two days (Order #236)",
+    "sentiment":0
+  },
+  {
+    "review_id":75,
+    "review_text":"Great packaging original product works smoothly (Order #137)",
+    "sentiment":1
+  },
+  {
+    "review_id":76,
+    "review_text":"Disappointed with support nobody replies to complaints (Order #237)",
+    "sentiment":0
+  },
+  {
+    "review_id":77,
+    "review_text":"Super fast shipping and awesome customer support (Order #138)",
+    "sentiment":1
+  },
+  {
+    "review_id":78,
+    "review_text":"Useless charger does not work at all refund needed (Order #238)",
+    "sentiment":0
+  },
+  {
+    "review_id":79,
+    "review_text":"Loved the course clear explanation and practical examples (Order #139)",
+    "sentiment":1
+  },
+  {
+    "review_id":80,
+    "review_text":"Bad experience screen was scratched and broken (Order #239)",
+    "sentiment":0
+  }
+]

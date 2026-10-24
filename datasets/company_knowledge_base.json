@@ -1,0 +1,22 @@
+[
+  {
+    "doc_id": "POL-01",
+    "title": "Return and Refund Policy",
+    "content": "Customers can return any unopened product within 14 days of delivery for a 100% full refund. Defective electronics are eligible for free replacement within 30 days."
+  },
+  {
+    "doc_id": "POL-02",
+    "title": "Shipping and Delivery Charges",
+    "content": "Standard delivery across Pakistan takes 2 to 4 business days. Shipping is free on orders above 3000 PKR, otherwise a flat fee of 250 PKR applies."
+  },
+  {
+    "doc_id": "POL-03",
+    "title": "AI Scholarship and Course Policy",
+    "content": "Students who score above 85% in the final capstone project receive an AI Engineering Certificate and a 50% scholarship for advanced cloud deployment labs."
+  },
+  {
+    "doc_id": "POL-04",
+    "title": "Customer Support Escalation Rules",
+    "content": "Billing disputes above 10,000 PKR require human manager approval before issuing an automated refund."
+  }
+]
